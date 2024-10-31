@@ -1,0 +1,35 @@
+	@font-face {
+			font-family: "OpenSans";
+			src: url("OpenSansRegular.eot");
+			src: url("OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+			url("OpenSansRegular.woff") format("woff"),
+			url("OpenSansRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: 400;
+	}
+	@font-face {
+			font-family: "OpenSansSemiBold";
+			src: url("OpenSansSemiBold.eot");
+			src: url("OpenSansSemiBold.eot?#iefix")format("embedded-opentype"),
+			url("OpenSansSemiBold.woff") format("woff"),
+			url("OpenSansSemiBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: 600;
+	}
+	@font-face {
+			font-family: "OpenSansBold";
+			src: url("OpenSansBold.eot");
+			src: url("OpenSansBold.eot?#iefix")format("embedded-opentype"),
+			url("OpenSansBold.woff") format("woff"),
+			url("OpenSansBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: 800;
+	}
+
+
+
+
+
+
+
+

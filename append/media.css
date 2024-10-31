@@ -1,0 +1,348 @@
+@media screen and (max-width: 992px){
+	.port {
+		font-size: 12px;
+		color: #999999;
+	}
+	.s_h2 {
+		font-size: 16px;
+	}
+	.s_h1 {
+		font-size: 20px;
+	}
+	.s_calc_h3 {
+		font-size: 16px;
+	}
+	.s_label_label {
+		font-size: 12px;
+	}
+	.s_h4 {
+		font-size: 12px;
+	}
+	.s_2_block_left {
+		font-size: 12px;
+	}
+	.s_2_block_right {
+		font-size: 14px;
+	}
+	.s_2_block_mid {
+		font-size: 11px;
+	}
+	.s_2_block_mid {
+		width: 25%;
+	}
+	.s_2_block_left label {
+		font-size: 12px;
+	}
+	.s_calc_3_text {
+		font-size: 17px;
+	}
+	.s_aukcion_strana .s_4_strana {
+		font-size: 14px;
+	}
+	.s_aukcion_strana span {
+		font-size: 13px;
+	}
+	.s_calc_3_right button span {
+		font-size: 14px;
+	}
+	.s_wrapper_for_checkbox {
+	    width: 22%;
+	}
+	.s_6_element .s_calc_h3 {
+	    line-height: 29px;
+	}
+	.s_calc_last_wrapper_for_submit button {
+		font-size: 16px;
+	}
+	.s_last_form_top input {
+		font-size: 16px;
+	}
+	.s_calc_3_right button .s_calc_3_right_bold {
+	    margin-right: 5px;
+	    font-family: "OpenSansBold", sans-serif;
+	    color: #333333;
+	    font-size: 16px;
+	    line-height: normal;
+	    height: auto;
+	    overflow: visible;
+	}
+	.s_calc_3_right button {
+		display: flex;
+		-ms-align-items: center;
+		align-items: center;
+		justify-content: center;
+	}
+	.s_calc_3_right button span {
+		line-height: 20px;
+	}
+	.s_calc_3_right button span {
+    	font-size: 14px;
+	}
+	.s_calc_3_summa {
+		font-size: 17px;
+	}
+	.s_calc_7 .s_calc_3_summa {
+		font-size: 24px;
+	}
+	.s_last_form_top div {
+		width: 30%;
+	}
+	.s_wrapper_for_kuzov .s_aukcion_kuzov .kuzov_type {
+		font-size: 13px;
+	}
+	.s_wrapper_for_kuzov .s_wrapper_for_checkbox {
+	    width: 31%;
+	}
+	.s_wrapper_for_kuzov .s_aukcion_kuzov span {
+		font-size: 13px;
+	}
+	.s_but_submit {
+		line-height: 38px;
+		font-size: 18px;
+	}
+	.s_input_text {
+		line-height: 40px;
+		font-size: 16px;
+	}
+	.s_h2 {
+		margin-bottom: 10px;
+		margin-left: 10px;
+	}
+	.s_link {
+		margin-bottom: 20px;
+	}
+	.s_h1 {
+		line-height: 50px;
+	}
+	.s_calc_last_wrapper_for_submit button {
+		line-height: 55px;
+	}
+	#title-auto {
+		font-size:14px;
+		margin:-2px 0 0 0;
+	}
+	#vin {
+		font-size:13px;
+		font-weight:normal;
+		font-family: "OpenSans", sans-serif;
+	}
+	.s_6_element .s_calc_h3 {
+		margin:0 0 4px 0;
+	}
+}
+@media screen and (max-width: 900px){ 
+	.s_calc_3_right button span {
+	    font-size: 12px;
+	}
+}
+@media screen and (max-width: 768px){ 
+	.s_link form {
+		flex-direction: column;
+		justify-content: center;
+		-ms-align-items: center;
+		align-items: center;
+	}
+	.s_input_text {
+		margin-right: 0;
+		margin-bottom: 20px;
+	}
+	.s_h2 {
+		text-align: center;
+	}
+	.s_input_text {
+		width: 100%;
+	}
+	.s_h1 {
+		font-size: 24px;
+		line-height: 40px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-bottom: 20px;
+	}
+	.s_calc_wrapper_for_flex {
+		flex-direction: column;
+	}
+	.s_calc_left {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.calc_right {
+		width: 100%;
+	}
+	.s_wrapper_for_dvigatel .s_wrapper_for_checkbox {
+		width: 50%;
+		display: flex;
+		-ms-align-items: center;
+		align-items: center;
+		justify-content: flex-end;
+		margin-bottom: 20px;
+		padding-right: 10px;
+	}
+	.s_wrapper_for_dvigatel .s_wrapper_for_checkbox:nth-child(even) {
+		justify-content: flex-start;
+		padding-left: 10px;
+	}
+	.s_wrapper_for_dvigatel .s_label_label {
+		min-width: 120px;
+		width: 50%;
+	}
+	.s_wrapper_for_dvigatel {
+		flex-wrap: wrap;
+	}
+	.s_calc_h3 {
+		text-align: center;
+	}
+	.s_wrapper_for_dvigatel {
+		margin-bottom: 0;
+	}
+	.s_wrapper_for_aukcion {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.s_wrapper_for_aukcion {
+		margin-bottom: 0;
+	}
+	.s_wrapper_for_aukcion .s_wrapper_for_checkbox{
+		padding-left: 10px;
+		padding-right: 10px;
+		width: 140px;
+		margin-bottom: 20px;
+	}
+	.s_but_submit {
+		width: 240px;
+	}
+	.s_h4 {
+		text-align: center;
+	}
+	.s_calc_2_wrapper_for_flex_bottom {
+		flex-direction: column;
+	}
+	.s_calc_2_left {
+		width: 100%;
+	}
+	.s_calc_2_right {
+		width: 100%;
+	}
+	.s_h4 {
+		justify-content: center;
+	}
+	.s_calc_3 {
+		flex-direction: column;
+	}
+	.s_calc_3_left {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.s_calc_3_right {
+		width: 100%;
+	}
+	.s_calc_3_right button .s_calc_3_right_bold {
+		font-size: 32px;
+	}
+	.s_4_wrapper {
+		flex-direction: column;
+	}
+	.s_4_left {
+		width: 100%;
+	}
+	.s_4_right {
+		width: 100%;
+	}
+	.s_4_left_img {
+		margin-top: 0;
+	}
+	.s_wrapper_for_kuzov .s_wrapper_for_checkbox {
+		margin-bottom: 20px;
+	}
+	.s_4_left_img {
+		margin-bottom: 20px;
+	}
+	.usa_map_mobile_select {
+		display: block;
+	}
+	.s_wrapper_for_country_down_map {
+	    flex-direction: row;
+	}
+	.s_4_right_new_but .s_wrapper_for_checkbox {
+		min-width: 120px;
+	}
+	.s_calc_2_wrapper_for_flex_bottom {
+		margin-top: 20px;
+	}
+	.s_6_wrapper {
+		flex-direction: column;
+	}
+	.s_6_element {
+		width: 100%;
+	}
+	.s_6_element:first-child {
+		margin-bottom: 10px;
+	}
+	.s_last_form_top {
+		flex-direction: column;
+	}
+	.s_last_form_top div {
+		width: 100%;
+		margin-right: 0;
+		margin-left: 0;
+		margin-bottom: 15px;
+	}
+	.s_calc_last_wrapper_for_submit button {
+		width: 100%;
+	}
+	.s_calc_wrapper {
+		margin-bottom: 40px;
+	}
+	.s_wrapper_for_aukcion .s_wrapper_for_checkbox {
+		width: 190px;
+	}
+}
+@media screen and (max-width: 500px){  
+	.s_wrapper_for_kuzov .s_wrapper_for_checkbox {
+		width: 100%;
+	}
+	.s_wrapper_for_kuzov {
+		flex-direction: column;
+	}
+	.s_wrapper_for_kuzov .s_aukcion_kuzov {
+		padding: 10px 3px;
+	}
+	.s_wrapper_for_kuzov .s_aukcion_kuzov .kuzov_type {
+		font-size: 16px;
+	}
+	.s_wrapper_for_kuzov .s_aukcion_kuzov span br{
+		display: none;
+	}
+	.s_wrapper_for_country_down_map {
+	    flex-direction: row;
+	}
+	.s_h2 {
+	    font-size: 16px;
+	}
+	.s_h1 {
+		font-size: 17px;
+	}
+	.s_but_submit {
+		font-size: 16px;
+	}
+	.s_calc_3_right button .s_calc_3_right_bold {
+	    font-size: 24px;
+	}
+	.s_calc_3_text {
+	    font-size: 16px;
+	}
+	.s_calc_7 .s_calc_3_summa {
+	    font-size: 20px;
+	}
+	.s_calc_last_wrapper_for_submit button {
+		font-size: 14px;
+		line-height: 50px;
+	}
+	.s_calc_last_wrapper {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	.s_wrapper_for_aukcion .s_wrapper_for_checkbox {
+		width: 130px;
+	}
+}
